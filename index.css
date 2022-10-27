@@ -1,0 +1,38 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 86rem;
+    height: 39rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    transition: 2s;
+}
+.container{
+    width: 50rem;
+
+    padding: 10px;
+    font-size: 40;
+    border-radius: 10px;
+    background-color: white;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-top: 5px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 35px;
+    display: block;
+    border-radius: 5px;
+}
